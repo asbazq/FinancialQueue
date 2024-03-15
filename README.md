@@ -1,6 +1,6 @@
 # Java Spring Boot Thread-Safety
 
-이 프로젝트는 Java Spring Boot를 사용하여 동기화와 thread-safe 패턴을 실습하고 연습하기 위한 예제 프로젝트를 BlockingQueue를 사용해서 수정한 프로젝트입니다. 본 프로젝트에서는 BlockingQueue를 사용하여 thread-safe하게 처리하는 방법을 보여줍니다.
+이 프로젝트는 Java Spring Boot를 사용하여 동기화와 thread-safe 패턴을 실습하고 연습하기 위한 [예제 프로젝트](https://github.com/asbazq/Financial) 를 BlockingQueue를 사용해서 수정한 프로젝트입니다. 본 프로젝트에서는 BlockingQueue를 사용하여 thread-safe하게 처리하는 방법을 보여줍니다.
 
 ## 기능
 
